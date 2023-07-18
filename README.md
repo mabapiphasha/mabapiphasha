@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mabapiphasha
-- 👀 I’m interested in Software Developer and Cyber Security
+- 👀 I’m interested in Software Developement and Cyber Security
 - 🌱 I’m currently a Computer Science and Mathematical Statistics Student at University Of Limpopo
 - 📫 How to reach me through thipakgolomabapi@gmail.com
 

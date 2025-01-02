@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mabapiphasha
 - 👀 I’m interested in Software Developement and Cyber Security
 - 🌱  Computer Science and Mathematical Statistics by profession
-- Programming Languages That i Know So Far : ✨Python ✨JavaScript For Mobile Development ✨CSS ✨HTML
+- 💻Programming Languages that i am familiar with so far : C++, Java, JavaScript, CSS, HTML, Python and Ruby. 
